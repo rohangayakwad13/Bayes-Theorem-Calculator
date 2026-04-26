@@ -1,3 +1,5 @@
+# Bayes-Theorem-Calculator
+
 🔮 Bayes’ Theorem Calculator — Precision Probability Engine
 
 Unlock smarter decision-making with a beautifully designed, AI-enhanced probability calculator built for learners, creators, and problem-solvers.
